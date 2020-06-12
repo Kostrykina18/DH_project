@@ -1,7 +1,7 @@
 # DH_project
 Digital Humanities
 
-Comparison of the book with the movie **"The Hunger Games"** via Bookworm and Gephi
+Comparing the book to the movie **"The Hunger Games"** via Bookworm and Gephi
 
 The repository contains:
 * Code for making graphs in CSV format  ***graph_maker.ipynb*** 
